@@ -26,4 +26,4 @@ chapter: false
 
 **Internship Duration:** From 08/08/2026 to 31/10/2026
 
-![abc](./images/1/abc.png/?featherlight=false&width=20pc)
+![abc](/FCAJ_Worklog/images/avatar/avatar.jpg?featherlight=false&width=20pc)
